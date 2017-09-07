@@ -1,0 +1,11 @@
+node_modules/
+.idea/
+tmp/
+.DS_Store
+npm-debug.log
+server_config.json
+package-lock.json
+pki-validation
+deploy.sh
+*.mp4
+rsync_exclude
